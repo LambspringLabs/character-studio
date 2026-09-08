@@ -1,0 +1,293 @@
+{
+  "asOf": "2026-09-08",
+  "requestedCollections": [
+    "Milady Maker",
+    "Radbro Webring V2",
+    "nonon"
+  ],
+  "metadataRecords": 20000,
+  "additionalMiladyGeneratorMetadataRecords": 10000,
+  "imageRepresentations": 19979,
+  "notACompleteOriginalAssetArchive": true,
+  "collections": [
+    {
+      "name": "Milady Maker",
+      "metadata": 10000,
+      "images": 10000,
+      "uniqueTokenImageHashes": 10000,
+      "visualTraits": 261,
+      "sourceLayers": 331,
+      "selectableLayerOptions": 318,
+      "renderable": true,
+      "summary": {
+        "collection": "Milady Maker",
+        "officialMetadataResponses": 10000,
+        "officialEnhancedMakerMetadataResponses": 10000,
+        "originalTokenPngs": 10000,
+        "originalTokenPngBytes": 14834464751,
+        "officialGeneratorPngs": 331,
+        "officialGeneratorPngBytes": 362300484,
+        "selectableGeneratorOptions": 318,
+        "helperFiles": 13,
+        "enhancedMakerVisualValues": 261,
+        "enhancedMakerVisualCategories": 15,
+        "marketplaceVisualValues": 234,
+        "unmappedVisualValuesAcrossBothSources": 0,
+        "extraGeneratorOptions": 57,
+        "fullDecodeAndHashAudit": {
+          "checkedAt": "2026-09-08T20:42:22.740427+00:00",
+          "expectedFiles": 10331,
+          "checkedFiles": 10331,
+          "decodedFiles": 10331,
+          "hashMatches": 10331,
+          "bytes": 15196765235,
+          "failures": []
+        },
+        "originalMetadataIdentityAnomalies": [
+          1000
+        ],
+        "enhancedMakerMetadataIdentityAnomalies": [],
+        "imageSourceFallbackIds": [
+          9999
+        ],
+        "scopeLimitations": [
+          "Canonical per-token 3D/Live2D model collection not established or downloaded",
+          "1 community VRM research copy has conflicting repo/embedded license metadata and is not verified for publication",
+          "Minted core/drip footer badges are baked into token images and are not in official maker layer manifest"
+        ],
+        "downloadedCommunityVrmModels": 1,
+        "communityVrmBytes": 3466856,
+        "metadataAndModelDirectoryBytes": {
+          "metadata": 10469730,
+          "maker-metadata": 6357997,
+          "images": 14834464751,
+          "layers": 362300484,
+          "models": 3471976
+        },
+        "sampleCompositionComparedIds": [
+          0,
+          1000
+        ]
+      }
+    },
+    {
+      "name": "Radbro Webring V2",
+      "metadata": 5000,
+      "fullSizeImages": 4974,
+      "thumbnailOnlyIds": [
+        3525,
+        3050,
+        3148,
+        4461,
+        4506
+      ],
+      "unavailableImageIds": [
+        3159,
+        3366,
+        3372,
+        3493,
+        3656,
+        3688,
+        3705,
+        3740,
+        3957,
+        4025,
+        4053,
+        4141,
+        4257,
+        4340,
+        4610,
+        4650,
+        4671,
+        4832,
+        4909,
+        4911,
+        4960
+      ],
+      "traits": 692,
+      "sourceLayers": 0,
+      "renderable": false,
+      "summary": {
+        "collection": "Radbro Webring V2",
+        "contract": "0xABCDB5710B88f456fED1e99025379e2969F29610",
+        "auditedAt": "2026-09-08T20:49:43.376340+00:00",
+        "expectedTokens": 5000,
+        "snapshotTokens": 5000,
+        "snapshotUniqueIds": 5000,
+        "snapshotMissingIds": [],
+        "currentMetadataFetched": 5000,
+        "currentMetadataMissingIds": [],
+        "changedFromSnapshotIds": [],
+        "imagesDownloaded": 4974,
+        "imagesMissingIds": [
+          3050,
+          3148,
+          3159,
+          3366,
+          3372,
+          3493,
+          3525,
+          3656,
+          3688,
+          3705,
+          3740,
+          3957,
+          4025,
+          4053,
+          4141,
+          4257,
+          4340,
+          4461,
+          4506,
+          4610,
+          4650,
+          4671,
+          4832,
+          4909,
+          4911,
+          4960
+        ],
+        "traitCategoryCount": 23,
+        "distinctCategoryValuePairs": 692,
+        "traitsPerCategory": {
+          "Arms": 78,
+          "Badge": 7,
+          "CRYPTID": 9,
+          "Cosmetics": 10,
+          "Environment": 155,
+          "Eye Patch": 2,
+          "Eyes": 12,
+          "Face": 23,
+          "Halo": 3,
+          "Headgear": 71,
+          "LEGENDARY": 21,
+          "Laser": 3,
+          "Logo": 86,
+          "Mouth": 13,
+          "Necklace": 18,
+          "Outerwear": 35,
+          "Remilio": 1,
+          "Scalp": 11,
+          "Secret": 3,
+          "Shirt": 46,
+          "Spectacles": 21,
+          "Street": 10,
+          "Toys": 54
+        },
+        "originalLayerAssetsRecovered": 0,
+        "originalGenerativeModelSourcesRecovered": 0,
+        "arbitraryCompositionSupported": false,
+        "thumbnailOnlyIds": [
+          3525,
+          3050,
+          3148,
+          4461,
+          4506
+        ],
+        "noUsableImageIds": [
+          3159,
+          3366,
+          3372,
+          3493,
+          3656,
+          3688,
+          3705,
+          3740,
+          3957,
+          4025,
+          4053,
+          4141,
+          4257,
+          4340,
+          4610,
+          4650,
+          4671,
+          4832,
+          4909,
+          4911,
+          4960
+        ]
+      }
+    },
+    {
+      "name": "nonon",
+      "metadata": 5000,
+      "images": 5000,
+      "imageFormat": "Official-site 1400x1778 WebP derivatives; canonical IPFS PNG URLs preserved",
+      "traits": 1516,
+      "sourceLayers": 0,
+      "renderable": false,
+      "summary": {
+        "characterMetadata": {
+          "count": 5000,
+          "bytes": 6891871,
+          "attributes": 60000,
+          "distinctCategoryValuePairs": 1516
+        },
+        "characterImages": {
+          "count": 5000,
+          "bytes": 277543794,
+          "dimensions": "1400x1778",
+          "format": "WebP",
+          "uniqueHashes": 5000,
+          "fullyDecoded": 5000,
+          "errors": 0,
+          "representation": "official website CDN derivatives; original IPFS PNG URLs retained"
+        },
+        "associatedFriendCards": {
+          "metadataCount": 1475,
+          "svgCount": 1475,
+          "svgBytes": 42194735,
+          "malformedOriginalSvgCount": 8,
+          "sourceSpriteLevels": 8,
+          "liveSnapshotObservedLevels": 6,
+          "snapshotTime": "2026-09-08T20:35:29.735902+00:00"
+        },
+        "communityModels": [
+          {
+            "path": "models/Nonon.vrm",
+            "bytes": 3561564,
+            "sha256": "bc159bddb63fb69ee3a939756ccf8c333230b13bae503a258dfbc2dcb2478c75",
+            "gitBlobSha": "b3b87916c54a6b68a42527f927184277008a649f",
+            "matchesRepositoryTree": true,
+            "repositoryTreeSha": "1ecf0999d3c17f210335c85ccf5316f66271fc50",
+            "licenseConflict": true
+          }
+        ],
+        "canonicalCharacterModels": 0,
+        "originalCharacterLayerFiles": 0,
+        "sourceRepositories": [
+          {
+            "repository": "https://github.com/mini-labo/nonon-contracts",
+            "ref": "master",
+            "treeSha": "45e452eff261a7421117a8bafb90c5db3f7c1dfc",
+            "archiveComment": "45e452eff261a7421117a8bafb90c5db3f7c1dfc",
+            "path": "source-repositories/nonon-contracts-master.zip",
+            "bytes": 54804,
+            "sha256": "580f1cef5e696f4061ae62a3d1858cbf09365a24c755604791d91abe889e219c",
+            "files": 22
+          },
+          {
+            "repository": "https://github.com/mini-labo/nonon-book",
+            "ref": "master",
+            "treeSha": "a14346566da11f4d205c805d4e0cfc414ce62c97",
+            "archiveComment": "a14346566da11f4d205c805d4e0cfc414ce62c97",
+            "path": "source-repositories/nonon-book-master.zip",
+            "bytes": 220887,
+            "sha256": "090eccf81c92409ce61a8fbd09518d95f6a8366f48a7e802a8e9e95023989d91",
+            "files": 18
+          }
+        ]
+      }
+    }
+  ],
+  "canonical3DModelSetsEstablished": false,
+  "sourceGaps": [
+    "Radbro V2 original trait layers and generation rules",
+    "nonon original painted layers and compatibility subtraits",
+    "Complete canonical 3D/Live2D model sets",
+    "Radbro missing full-size and unrecoverable images listed per token"
+  ],
+  "site": "../../samples/character-studio",
+  "secondaryRecoveryAudit": "nonon/recovery-radbro/RECOVERY-RESULT.json"
+}
